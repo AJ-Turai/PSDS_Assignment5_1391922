@@ -5,8 +5,6 @@ This repository contains code and analysis for a consulting project focused on p
 ## Project Structure
 
 - **main.ipynb**: Jupyter notebook containing data preprocessing, feature engineering, model training, and evaluation. It includes a detailed breakdown of the steps taken and model performance metrics.
-- **data/**: Directory where input data files is placed.
-- **report/**: Directory containing detailed report including all teh results and plots.
 - **requirements.txt**: List of necessary Python packages and dependencies for running the notebook.
 
 ## Key Steps
