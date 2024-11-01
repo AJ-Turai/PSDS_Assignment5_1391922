@@ -37,7 +37,7 @@ cd CABG-patient-arterial-prediction
 pip install -r requirements.txt
 ```
 
-##Usage
+## Usage
 Run the Jupyter notebook:
 
 ```bash
@@ -46,5 +46,5 @@ jupyter notebook mian.ipynb
 
 For a detailed walk-through of the code and model results, please refer to mian.ipynb. While the notebook demonstrates the project workflow, some model parameters and steps may vary. If any clarification is needed, please feel free to reach out.
 
-##Notes
+## Notes
 This repository provides a thorough approach for exploring and predicting arterial abnormalities, with potential adjustments based on client requirements.
